@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934409305909",
+    "project_id": "pagination-74bae",
+    "storage_bucket": "pagination-74bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934409305909:android:98b2a14e66b715064e567c",
+        "android_client_info": {
+          "package_name": "com.example.pagination"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934409305909-6j826idf3dphrkmeorp5pi83nflkdgb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnbJppykVQOL-9I96RtvD4LUkbtpcCjQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934409305909-6j826idf3dphrkmeorp5pi83nflkdgb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
